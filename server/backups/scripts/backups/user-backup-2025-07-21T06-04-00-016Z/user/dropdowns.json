@@ -1,0 +1,1 @@
+{"_id":{"$oid":"6878873871ee353e0c07622b"},"projectNames":["machine1","machine2"],"statuses":["morning","afternoon","evening"],"users":["op1","op2"],"__v":{"$numberInt":"39"}}
